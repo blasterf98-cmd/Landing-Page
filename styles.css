@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
+    font-family: sans-serif;
     background-color: #f4f4f4;
 }
 
@@ -93,7 +93,7 @@ ul {
 
 .cards {
     display: flex;
-    gap: 100px;
+    gap: 50px;
     width: 100px;
     justify-content: center;
 }
@@ -102,22 +102,17 @@ ul {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 100px;
-    text-align: left;
-    padding: 0px;
-    text-wrap: balance;
+    width: auto;
     font-size: 12px;
-    font-weight: 100px;
-    }
-
+    font-weight: 100;
+}
 
 .card {
-    background-color: #3882f6;
-    border-width: 20px;
     border-radius: 12px;
-    border-color: #131b29;
     height: 150px;
     width: 150px;
+    border: 5px solid #3882f6;
+    box-sizing: border-box;
 
 }
 
