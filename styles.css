@@ -82,3 +82,42 @@ ul {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.features {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.cards {
+    display: flex;
+    gap: 100px;
+    width: 100px;
+    justify-content: center;
+}
+
+.stacked {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100px;
+    text-align: left;
+    padding: 0px;
+    text-wrap: balance;
+    font-size: 12px;
+    font-weight: 100px;
+    }
+
+
+.card {
+    background-color: #3882f6;
+    border-width: 20px;
+    border-radius: 12px;
+    border-color: #131b29;
+    height: 150px;
+    width: 150px;
+
+}
+
