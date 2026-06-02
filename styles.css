@@ -146,6 +146,7 @@ p {
     justify-content: space-between;
     align-items: center;
     border-radius: 15px;
+    gap: 30px;
 }
 
 .CTA-right {
