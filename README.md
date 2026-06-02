@@ -1,4 +1,4 @@
-# [Project Name / Landing Page]
+# [Landing Page]
 
 This is a modern, responsive landing page built from scratch using HTML5 and CSS3. 
 
