@@ -3,8 +3,7 @@
 This is a modern, responsive landing page built from scratch using HTML5 and CSS3. 
 
 ## 🚀 Live Demo
-You can view the live deployment of this project here: [Insert Link to GitHub Pages, Netlify, or Vercel]
-
+You can view the live deployment of this project here: [https://blasterf98-cmd.github.io/Landing-Page/]
 ---
 
 ## 📸 Screenshots
